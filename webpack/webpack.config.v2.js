@@ -1,7 +1,6 @@
 // webpack.config.js for Webpack version 2
 
 var path = require('path');
-var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 var PATHS = {
   //  In Node.js, __dirname is always the directory in which the currently executing script resides
